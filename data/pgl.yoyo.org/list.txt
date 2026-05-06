@@ -1468,6 +1468,7 @@ displayvertising.com
 disqusads.com
 dist.belnk.com
 distillery.wistia.com
+distilltable.com
 districtm.ca
 districtm.io
 dmp.mall.tv
@@ -2825,6 +2826,7 @@ secure.webconnect.net
 securedopen-bp.com
 securemetrics.apple.com
 securemetrics.apple.com.cn
+securityannex.net
 sedoparking.com
 sedotracker.com
 segment-cdn.producthunt.com
